@@ -11,6 +11,7 @@
 ## bitXor(a,b) {#bitxora-b}
 
 ## bitNot(a) {#bitnota}
+对a做取反运算，最后结果不够8位长度的前面补1。例如：bitNot(3).3的二进制是11.bitNot后1111 1100。转换十进制是252。
 
 ## bitShiftLeft(a,b) {#bitshiftlefta-b}
 
